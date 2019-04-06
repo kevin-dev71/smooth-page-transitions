@@ -1,0 +1,28 @@
+{
+  "name": "smooth-page-transitions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevEdwin/page-transitions-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevEdwin/page-transitions-js/issues"
+  },
+  "homepage": "https://github.com/DevEdwin/page-transitions-js#readme",
+  "dependencies": {
+    "@dogstudio/highway": "^2.1.2",
+    "gsap": "^2.1.2",
+    "parcel-bundler": "^1.12.3"
+  },
+  "devDependencies": {
+    "sass": "^1.17.4"
+  }
+}
